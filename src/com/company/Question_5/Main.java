@@ -10,7 +10,9 @@ public class Main {
          */
 
 
+
         /* ANSWER QUESTION HERE:
+        An Abstract class cannot be instantiated, we would do this in order to keep it safe from an programming error that would change this class or anything in it.
 
 
 
